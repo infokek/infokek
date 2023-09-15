@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# About me
+- Malware Research Analyst
+- Information Security Enthusiast
+# Skills
+- python
 <!--
 **infokek/infokek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
