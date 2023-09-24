@@ -1,7 +1,7 @@
 # About me
 - Malware Analyst
 - Network Traffic Analyst
-- MMobile Security Enthusiast
+- Mobile Security Enthusiast
 # Skills
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
