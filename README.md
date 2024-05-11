@@ -5,7 +5,7 @@
 
 **Direction:** Threat Detection Specialist
 
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="30" height="30">](https://www.linkedin.com/infokek)
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="30" height="30">](https://www.linkedin.com/in/infokek/)
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="30" height="30">](https://github.com/infokek)
 &nbsp;
