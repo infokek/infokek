@@ -1,6 +1,8 @@
 # About me
 **Name:** Sergei
+
 **Country:** Russia
+
 **Direction:** Threat Detection Specialist
 
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50" height="50">](https://www.linkedin.com/infokek)
