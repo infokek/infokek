@@ -5,11 +5,11 @@
 
 **Direction:** Threat Detection Specialist
 
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50" height="50">](https://www.linkedin.com/infokek)
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="30" height="30">](https://www.linkedin.com/infokek)
 &nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="50" height="50">](https://github.com/infokek)
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="30" height="30">](https://github.com/infokek)
 &nbsp;
-[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="50" height="50">](https://x.com/infokek_)
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="30" height="30">](https://x.com/infokek_)
 
 # Skills
 - Threat Detection
@@ -30,7 +30,7 @@
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kali-Dark.svg" width="50" height="50">]()
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Debian-Dark.svg" width="50" height="50">]()
-
+&nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50">]()
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="50" height="50">]()
@@ -46,7 +46,7 @@
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="50" height="50">]()
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RabbitMQ-Dark.svg" width="50" height="50">]()
-
+&nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="50" height="50">]()
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" width="50" height="50">]()
