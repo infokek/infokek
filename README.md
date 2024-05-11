@@ -31,6 +31,8 @@
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Debian-Dark.svg" width="50" height="50">]()
 &nbsp;
+&nbsp;
+&nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50">]()
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="50" height="50">]()
@@ -46,6 +48,8 @@
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="50" height="50">]()
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RabbitMQ-Dark.svg" width="50" height="50">]()
+&nbsp;
+&nbsp;
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="50" height="50">]()
 &nbsp;
