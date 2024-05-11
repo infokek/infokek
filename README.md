@@ -28,6 +28,8 @@
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="50" height="50">]()
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kali-Dark.svg" width="50" height="50">]()
+&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Debian-Dark.svg" width="50" height="50">]()
 
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50">]()
 &nbsp;
@@ -48,6 +50,10 @@
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="50" height="50">]()
 &nbsp;
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" width="50" height="50">]()
+&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="50" height="50">]()
+&nbsp;
+[<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width="50" height="50">]()
 
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg" width="50" height="50">]()
 &nbsp;
