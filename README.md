@@ -14,13 +14,9 @@
 # Skills
 - Threat Detection
 - Malware Analysis
-- Mobile Security
-- Embedded Security
 
-- Mobile Development
-- Embedded Development
-- C# Development
 - Python Development
+- C# Development
 - Rust Development
 
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="50" height="50">]()
