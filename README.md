@@ -14,10 +14,12 @@
 # Skills
 - Threat Detection
 - Malware Analysis
+- Mobile Security
 
 - Python Development
 - C# Development
 - Rust Development
+- Mobile Development
 
 [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="50" height="50">]()
 &nbsp;
