@@ -1,5 +1,5 @@
 # About me
-**Name:** Sergei
+**Name:** Sergey Komarov
 
 **Country:** Russia
 
